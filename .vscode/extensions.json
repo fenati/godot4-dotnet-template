@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		// C# Dev Kit
+		"ms-dotnettools.csdevkit",
+		// C# XML Documentation Comments
+		"k--kato.docomment",
+		// Git History
+		"donjayamanne.githistory",
+		// godot-tools
+		"geequlim.godot-tools",
+	]
+}

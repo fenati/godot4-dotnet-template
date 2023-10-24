@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Godot",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "d:/Tools/Godot/4.1.2-mono/Godot_v4.1.2-stable_mono_win64.exe",
+            "args": ["--path", "${workspaceFolder}"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false
+        }
+    ]
+}
