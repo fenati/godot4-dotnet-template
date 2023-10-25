@@ -1,6 +1,7 @@
 {
     "files.exclude": {
-        ".godot/": true
+        ".godot/": true,
+        "out/": true
     },
     "godot_tools.gdscript_lsp_server_port": 6005
 }
